@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning HTML, CSS and MySQL
 - 📫 How to reach me: pedrojorge.ct@outlook.com
-- 19yo SysInfo student, mastering HTML/CSS/MySQL, planning to delve into JavaScript and frameworks. Developing a solid portfolio to showcase projects and seeking short-term internship opportunities to gain experience in dev.
+- 19yo SysInfo student, mastering HTML/CSS/MySQL and planning to study JavaScript and frameworks. Developing a solid portfolio to showcase projects and seeking opportunities to gain experience in dev.
 
 <div align="left" target="_blank">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrkw&show_icons=True&theme=dark&include_all_commits=true&count_private=true"/> </a>
