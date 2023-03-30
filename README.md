@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Jorge</h1>
-<h3 align="center">20yo SysInfo student, mastering HTML/CSS/MySQL and planning to study JavaScript and frameworks. Developing a solid portfolio to showcase projects and seeking opportunities to gain experience in dev.</h3>
+<h3 align="center">20yo SysInfo student, mastering HTML/CSS/MySQL and planning to study JavaScript, Java, and frameworks. Developing a solid portfolio to showcase projects and seeking opportunities to gain experience in dev.</h3>
 
 - 🌱 I’m currently learning **HTML, CSS and MySQL**
 
