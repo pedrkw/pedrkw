@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript and MySQL**
 
-- 📫 How to reach me **pedrojorge.ct@outlook.com**
+- 📫 How to reach me **<pedrojorge.ct@outlook.com>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,6 +20,10 @@
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3" width="40" height="40" />
+    </a>
+        <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="css3" width="40" height="40" />
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
