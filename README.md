@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pedro Jorge</h1>
-<h3 align="center">20yo SysInfo student, mastering HTML/CSS/JavaScript/MySQL and planning to study Java, and frameworks. Developing a solid portfolio to showcase projects and seeking opportunities to gain experience in dev.</h3>
+<h3 align="center">20yo SysInfo student, mastering my skills. Developing a solid portfolio to showcase projects and seeking opportunities to gain experience.</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript and MySQL**
+[comment]: <> (- 🌱 I’m currently learning **HTML, CSS, JavaScript and MySQL**)
 
-- 📫 How to reach me **<pedrojorge.ct@outlook.com>**
+[comment]: <> (- 📫 How to reach me **<pedrojorge.ct@outlook.com>**)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
