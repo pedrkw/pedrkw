@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Jorge</h1>
-<h3 align="center">20yo SysInfo student, mastering my skills. Developing a solid portfolio to showcase projects and seeking opportunities to gain experience.</h3>
+<h3 align="center">At 21, committed to advancing skills and embracing opportunities for professional growth within a dynamic and innovative environment.</h3>
 
-[comment]: <> (- 🌱 I’m currently learning **HTML, CSS, JavaScript and MySQL**)
+[comment]: <> (- 🌱 I’m currently learning **JavaScript, Python and Dart**)
 
 [comment]: <> (- 📫 How to reach me **<pedrojorge.ct@outlook.com>**)
 
