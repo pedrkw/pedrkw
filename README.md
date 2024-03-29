@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pedro Jorge</h1>
-<h3 align="center">At 21, committed to advancing skills and embracing opportunities for professional growth within a dynamic and innovative environment.</h3>
-
-[comment]: <> (- 🌱 I’m currently learning **JavaScript, Python and Dart**)
-
-[comment]: <> (- 📫 How to reach me **<pedrojorge.ct@outlook.com>**)
+<h1 align="center">Hi , I'm Pedro Jorge</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
